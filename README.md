@@ -13,4 +13,4 @@ The separating hyperplane is optimal and maximizes the margin that separates the
 
 # Usage
 Dataset is attached.
-Run`SpamMailPrediction_SVM.ipynb` 
+Run `SpamMailPrediction_SVM.ipynb` 
